@@ -13,12 +13,18 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> new
         gbkb
         catch
         higherThan
+<<<<<<< HEAD
 =======
     hkgkgk
 >>>>>>> j
+=======
+>>>>>>> new
     }
 
 
